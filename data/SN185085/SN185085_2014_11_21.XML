@@ -1,0 +1,1382 @@
+<Day>
+<Sample Secs="30308">
+<Pout>2</Pout>
+</Sample>
+<Sample Secs="30379">
+<Pout>4</Pout>
+</Sample>
+<Sample Secs="30451">
+<Pout>9</Pout>
+</Sample>
+<Sample Secs="30522">
+<Pout>10</Pout>
+</Sample>
+<Sample Secs="30594">
+<Pout>12</Pout>
+</Sample>
+<Sample Secs="30665">
+<Pout>15</Pout>
+</Sample>
+<Sample Secs="30738">
+<Pout>20</Pout>
+</Sample>
+<Sample Secs="30809">
+<Pout>23</Pout>
+</Sample>
+<Sample Secs="30881">
+<Pout>26</Pout>
+</Sample>
+<Sample Secs="30952">
+<Pout>29</Pout>
+</Sample>
+<Sample Secs="31023">
+<Pout>32</Pout>
+</Sample>
+<Sample Secs="31095">
+<Pout>36</Pout>
+</Sample>
+<Sample Secs="31166">
+<Pout>39</Pout>
+</Sample>
+<Sample Secs="31238">
+<Pout>43</Pout>
+</Sample>
+<Sample Secs="31309">
+<Pout>43</Pout>
+</Sample>
+<Sample Secs="31381">
+<Pout>52</Pout>
+</Sample>
+<Sample Secs="31453">
+<Pout>58</Pout>
+</Sample>
+<Sample Secs="31524">
+<Pout>62</Pout>
+</Sample>
+<Sample Secs="31596">
+<Pout>66</Pout>
+</Sample>
+<Sample Secs="31667">
+<Pout>71</Pout>
+</Sample>
+<Sample Secs="31739">
+<Pout>76</Pout>
+</Sample>
+<Sample Secs="31810">
+<Pout>80</Pout>
+</Sample>
+<Sample Secs="31881">
+<Pout>85</Pout>
+</Sample>
+<Sample Secs="31954">
+<Pout>91</Pout>
+</Sample>
+<Sample Secs="32025">
+<Pout>97</Pout>
+</Sample>
+<Sample Secs="32097">
+<Pout>103</Pout>
+</Sample>
+<Sample Secs="32168">
+<Pout>116</Pout>
+</Sample>
+<Sample Secs="32240">
+<Pout>280</Pout>
+</Sample>
+<Sample Secs="32311">
+<Pout>544</Pout>
+</Sample>
+<Sample Secs="32382">
+<Pout>734</Pout>
+</Sample>
+<Sample Secs="32455">
+<Pout>750</Pout>
+</Sample>
+<Sample Secs="32526">
+<Pout>446</Pout>
+</Sample>
+<Sample Secs="32598">
+<Pout>733</Pout>
+</Sample>
+<Sample Secs="32669">
+<Pout>627</Pout>
+</Sample>
+<Sample Secs="32740">
+<Pout>614</Pout>
+</Sample>
+<Sample Secs="32812">
+<Pout>668</Pout>
+</Sample>
+<Sample Secs="32883">
+<Pout>626</Pout>
+</Sample>
+<Sample Secs="32955">
+<Pout>660</Pout>
+</Sample>
+<Sample Secs="33027">
+<Pout>646</Pout>
+</Sample>
+<Sample Secs="33099">
+<Pout>604</Pout>
+</Sample>
+<Sample Secs="33170">
+<Pout>618</Pout>
+</Sample>
+<Sample Secs="33241">
+<Pout>666</Pout>
+</Sample>
+<Sample Secs="33313">
+<Pout>777</Pout>
+</Sample>
+<Sample Secs="33384">
+<Pout>858</Pout>
+</Sample>
+<Sample Secs="33456">
+<Pout>879</Pout>
+</Sample>
+<Sample Secs="33527">
+<Pout>1032</Pout>
+</Sample>
+<Sample Secs="33599">
+<Pout>1157</Pout>
+</Sample>
+<Sample Secs="33671">
+<Pout>851</Pout>
+</Sample>
+<Sample Secs="33742">
+<Pout>719</Pout>
+</Sample>
+<Sample Secs="33814">
+<Pout>730</Pout>
+</Sample>
+<Sample Secs="33885">
+<Pout>494</Pout>
+</Sample>
+<Sample Secs="33957">
+<Pout>691</Pout>
+</Sample>
+<Sample Secs="34028">
+<Pout>766</Pout>
+</Sample>
+<Sample Secs="34099">
+<Pout>835</Pout>
+</Sample>
+<Sample Secs="34172">
+<Pout>901</Pout>
+</Sample>
+<Sample Secs="34243">
+<Pout>946</Pout>
+</Sample>
+<Sample Secs="34315">
+<Pout>1013</Pout>
+</Sample>
+<Sample Secs="34386">
+<Pout>1177</Pout>
+</Sample>
+<Sample Secs="34458">
+<Pout>1190</Pout>
+</Sample>
+<Sample Secs="34529">
+<Pout>1036</Pout>
+</Sample>
+<Sample Secs="34600">
+<Pout>1276</Pout>
+</Sample>
+<Sample Secs="34673">
+<Pout>1324</Pout>
+</Sample>
+<Sample Secs="34744">
+<Pout>1378</Pout>
+</Sample>
+<Sample Secs="34816">
+<Pout>1419</Pout>
+</Sample>
+<Sample Secs="34887">
+<Pout>1351</Pout>
+</Sample>
+<Sample Secs="34959">
+<Pout>1281</Pout>
+</Sample>
+<Sample Secs="35030">
+<Pout>1460</Pout>
+</Sample>
+<Sample Secs="35101">
+<Pout>1465</Pout>
+</Sample>
+<Sample Secs="35173">
+<Pout>1163</Pout>
+</Sample>
+<Sample Secs="35244">
+<Pout>673</Pout>
+</Sample>
+<Sample Secs="35317">
+<Pout>1422</Pout>
+</Sample>
+<Sample Secs="35388">
+<Pout>1355</Pout>
+</Sample>
+<Sample Secs="35460">
+<Pout>1207</Pout>
+</Sample>
+<Sample Secs="35531">
+<Pout>1310</Pout>
+</Sample>
+<Sample Secs="35602">
+<Pout>1338</Pout>
+</Sample>
+<Sample Secs="35674">
+<Pout>1514</Pout>
+</Sample>
+<Sample Secs="35745">
+<Pout>1606</Pout>
+</Sample>
+<Sample Secs="35817">
+<Pout>1546</Pout>
+</Sample>
+<Sample Secs="35888">
+<Pout>1502</Pout>
+</Sample>
+<Sample Secs="35960">
+<Pout>1463</Pout>
+</Sample>
+<Sample Secs="36032">
+<Pout>1532</Pout>
+</Sample>
+<Sample Secs="36103">
+<Pout>1650</Pout>
+</Sample>
+<Sample Secs="36175">
+<Pout>1658</Pout>
+</Sample>
+<Sample Secs="36246">
+<Pout>1677</Pout>
+</Sample>
+<Sample Secs="36318">
+<Pout>1693</Pout>
+</Sample>
+<Sample Secs="36389">
+<Pout>1696</Pout>
+</Sample>
+<Sample Secs="36460">
+<Pout>1741</Pout>
+</Sample>
+<Sample Secs="36533">
+<Pout>1768</Pout>
+</Sample>
+<Sample Secs="36604">
+<Pout>1794</Pout>
+</Sample>
+<Sample Secs="36676">
+<Pout>1813</Pout>
+</Sample>
+<Sample Secs="36747">
+<Pout>1834</Pout>
+</Sample>
+<Sample Secs="36818">
+<Pout>1860</Pout>
+</Sample>
+<Sample Secs="36891">
+<Pout>1880</Pout>
+</Sample>
+<Sample Secs="36962">
+<Pout>1889</Pout>
+</Sample>
+<Sample Secs="37034">
+<Pout>1860</Pout>
+</Sample>
+<Sample Secs="37105">
+<Pout>1893</Pout>
+</Sample>
+<Sample Secs="37176">
+<Pout>1871</Pout>
+</Sample>
+<Sample Secs="37248">
+<Pout>1870</Pout>
+</Sample>
+<Sample Secs="37319">
+<Pout>1894</Pout>
+</Sample>
+<Sample Secs="37391">
+<Pout>1889</Pout>
+</Sample>
+<Sample Secs="37462">
+<Pout>1903</Pout>
+</Sample>
+<Sample Secs="37535">
+<Pout>1908</Pout>
+</Sample>
+<Sample Secs="37606">
+<Pout>1936</Pout>
+</Sample>
+<Sample Secs="37677">
+<Pout>1850</Pout>
+</Sample>
+<Sample Secs="37749">
+<Pout>1933</Pout>
+</Sample>
+<Sample Secs="37820">
+<Pout>1914</Pout>
+</Sample>
+<Sample Secs="37892">
+<Pout>1886</Pout>
+</Sample>
+<Sample Secs="37963">
+<Pout>1907</Pout>
+</Sample>
+<Sample Secs="38035">
+<Pout>1929</Pout>
+</Sample>
+<Sample Secs="38106">
+<Pout>1983</Pout>
+</Sample>
+<Sample Secs="38178">
+<Pout>2021</Pout>
+</Sample>
+<Sample Secs="38250">
+<Pout>2023</Pout>
+</Sample>
+<Sample Secs="38321">
+<Pout>2065</Pout>
+</Sample>
+<Sample Secs="38393">
+<Pout>2068</Pout>
+</Sample>
+<Sample Secs="38464">
+<Pout>1681</Pout>
+</Sample>
+<Sample Secs="38535">
+<Pout>1441</Pout>
+</Sample>
+<Sample Secs="38608">
+<Pout>1339</Pout>
+</Sample>
+<Sample Secs="38679">
+<Pout>1548</Pout>
+</Sample>
+<Sample Secs="38751">
+<Pout>1389</Pout>
+</Sample>
+<Sample Secs="38822">
+<Pout>1139</Pout>
+</Sample>
+<Sample Secs="38894">
+<Pout>1198</Pout>
+</Sample>
+<Sample Secs="38965">
+<Pout>993</Pout>
+</Sample>
+<Sample Secs="39036">
+<Pout>915</Pout>
+</Sample>
+<Sample Secs="39108">
+<Pout>828</Pout>
+</Sample>
+<Sample Secs="39180">
+<Pout>787</Pout>
+</Sample>
+<Sample Secs="39252">
+<Pout>721</Pout>
+</Sample>
+<Sample Secs="39323">
+<Pout>714</Pout>
+</Sample>
+<Sample Secs="39395">
+<Pout>743</Pout>
+</Sample>
+<Sample Secs="39466">
+<Pout>791</Pout>
+</Sample>
+<Sample Secs="39537">
+<Pout>841</Pout>
+</Sample>
+<Sample Secs="39609">
+<Pout>845</Pout>
+</Sample>
+<Sample Secs="39680">
+<Pout>907</Pout>
+</Sample>
+<Sample Secs="39753">
+<Pout>867</Pout>
+</Sample>
+<Sample Secs="39824">
+<Pout>872</Pout>
+</Sample>
+<Sample Secs="39895">
+<Pout>822</Pout>
+</Sample>
+<Sample Secs="39967">
+<Pout>738</Pout>
+</Sample>
+<Sample Secs="40038">
+<Pout>711</Pout>
+</Sample>
+<Sample Secs="40110">
+<Pout>689</Pout>
+</Sample>
+<Sample Secs="40181">
+<Pout>686</Pout>
+</Sample>
+<Sample Secs="40252">
+<Pout>734</Pout>
+</Sample>
+<Sample Secs="40325">
+<Pout>737</Pout>
+</Sample>
+<Sample Secs="40396">
+<Pout>753</Pout>
+</Sample>
+<Sample Secs="40468">
+<Pout>787</Pout>
+</Sample>
+<Sample Secs="40539">
+<Pout>822</Pout>
+</Sample>
+<Sample Secs="40611">
+<Pout>892</Pout>
+</Sample>
+<Sample Secs="40682">
+<Pout>930</Pout>
+</Sample>
+<Sample Secs="40753">
+<Pout>973</Pout>
+</Sample>
+<Sample Secs="40826">
+<Pout>1191</Pout>
+</Sample>
+<Sample Secs="40897">
+<Pout>1549</Pout>
+</Sample>
+<Sample Secs="40969">
+<Pout>1163</Pout>
+</Sample>
+<Sample Secs="41040">
+<Pout>1469</Pout>
+</Sample>
+<Sample Secs="41112">
+<Pout>1803</Pout>
+</Sample>
+<Sample Secs="41183">
+<Pout>1715</Pout>
+</Sample>
+<Sample Secs="41254">
+<Pout>1627</Pout>
+</Sample>
+<Sample Secs="41327">
+<Pout>2263</Pout>
+</Sample>
+<Sample Secs="41398">
+<Pout>2019</Pout>
+</Sample>
+<Sample Secs="41470">
+<Pout>1364</Pout>
+</Sample>
+<Sample Secs="41541">
+<Pout>1605</Pout>
+</Sample>
+<Sample Secs="41612">
+<Pout>1410</Pout>
+</Sample>
+<Sample Secs="41684">
+<Pout>1563</Pout>
+</Sample>
+<Sample Secs="41755">
+<Pout>1867</Pout>
+</Sample>
+<Sample Secs="41827">
+<Pout>1536</Pout>
+</Sample>
+<Sample Secs="41898">
+<Pout>1896</Pout>
+</Sample>
+<Sample Secs="41971">
+<Pout>2440</Pout>
+</Sample>
+<Sample Secs="42042">
+<Pout>2249</Pout>
+</Sample>
+<Sample Secs="42113">
+<Pout>2551</Pout>
+</Sample>
+<Sample Secs="42185">
+<Pout>2193</Pout>
+</Sample>
+<Sample Secs="42256">
+<Pout>1979</Pout>
+</Sample>
+<Sample Secs="42328">
+<Pout>2232</Pout>
+</Sample>
+<Sample Secs="42399">
+<Pout>1730</Pout>
+</Sample>
+<Sample Secs="42471">
+<Pout>2254</Pout>
+</Sample>
+<Sample Secs="42542">
+<Pout>2267</Pout>
+</Sample>
+<Sample Secs="42613">
+<Pout>2300</Pout>
+</Sample>
+<Sample Secs="42686">
+<Pout>2250</Pout>
+</Sample>
+<Sample Secs="42757">
+<Pout>2164</Pout>
+</Sample>
+<Sample Secs="42829">
+<Pout>2201</Pout>
+</Sample>
+<Sample Secs="42900">
+<Pout>2207</Pout>
+</Sample>
+<Sample Secs="42971">
+<Pout>2205</Pout>
+</Sample>
+<Sample Secs="43044">
+<Pout>2193</Pout>
+</Sample>
+<Sample Secs="43115">
+<Pout>2162</Pout>
+</Sample>
+<Sample Secs="43187">
+<Pout>2191</Pout>
+</Sample>
+<Sample Secs="43258">
+<Pout>2187</Pout>
+</Sample>
+<Sample Secs="43330">
+<Pout>2131</Pout>
+</Sample>
+<Sample Secs="43401">
+<Pout>2093</Pout>
+</Sample>
+<Sample Secs="43472">
+<Pout>1792</Pout>
+</Sample>
+<Sample Secs="43544">
+<Pout>1913</Pout>
+</Sample>
+<Sample Secs="43616">
+<Pout>1032</Pout>
+</Sample>
+<Sample Secs="43688">
+<Pout>993</Pout>
+</Sample>
+<Sample Secs="43759">
+<Pout>2108</Pout>
+</Sample>
+<Sample Secs="43831">
+<Pout>2149</Pout>
+</Sample>
+<Sample Secs="43902">
+<Pout>2127</Pout>
+</Sample>
+<Sample Secs="43973">
+<Pout>2114</Pout>
+</Sample>
+<Sample Secs="44045">
+<Pout>2106</Pout>
+</Sample>
+<Sample Secs="44116">
+<Pout>2114</Pout>
+</Sample>
+<Sample Secs="44188">
+<Pout>2108</Pout>
+</Sample>
+<Sample Secs="44260">
+<Pout>2100</Pout>
+</Sample>
+<Sample Secs="44331">
+<Pout>2092</Pout>
+</Sample>
+<Sample Secs="44403">
+<Pout>2088</Pout>
+</Sample>
+<Sample Secs="44474">
+<Pout>2087</Pout>
+</Sample>
+<Sample Secs="44546">
+<Pout>2080</Pout>
+</Sample>
+<Sample Secs="44617">
+<Pout>2079</Pout>
+</Sample>
+<Sample Secs="44688">
+<Pout>2076</Pout>
+</Sample>
+<Sample Secs="44761">
+<Pout>2073</Pout>
+</Sample>
+<Sample Secs="44832">
+<Pout>2067</Pout>
+</Sample>
+<Sample Secs="44904">
+<Pout>2057</Pout>
+</Sample>
+<Sample Secs="44975">
+<Pout>2053</Pout>
+</Sample>
+<Sample Secs="45047">
+<Pout>2048</Pout>
+</Sample>
+<Sample Secs="45118">
+<Pout>2052</Pout>
+</Sample>
+<Sample Secs="45189">
+<Pout>2054</Pout>
+</Sample>
+<Sample Secs="45262">
+<Pout>2056</Pout>
+</Sample>
+<Sample Secs="45333">
+<Pout>2020</Pout>
+</Sample>
+<Sample Secs="45405">
+<Pout>1900</Pout>
+</Sample>
+<Sample Secs="45476">
+<Pout>1956</Pout>
+</Sample>
+<Sample Secs="45548">
+<Pout>2059</Pout>
+</Sample>
+<Sample Secs="45619">
+<Pout>2066</Pout>
+</Sample>
+<Sample Secs="45690">
+<Pout>2065</Pout>
+</Sample>
+<Sample Secs="45762">
+<Pout>2056</Pout>
+</Sample>
+<Sample Secs="45834">
+<Pout>2041</Pout>
+</Sample>
+<Sample Secs="45906">
+<Pout>2043</Pout>
+</Sample>
+<Sample Secs="45977">
+<Pout>2036</Pout>
+</Sample>
+<Sample Secs="46048">
+<Pout>2032</Pout>
+</Sample>
+<Sample Secs="46120">
+<Pout>2044</Pout>
+</Sample>
+<Sample Secs="46191">
+<Pout>2046</Pout>
+</Sample>
+<Sample Secs="46263">
+<Pout>2074</Pout>
+</Sample>
+<Sample Secs="46334">
+<Pout>2122</Pout>
+</Sample>
+<Sample Secs="46406">
+<Pout>2174</Pout>
+</Sample>
+<Sample Secs="46478">
+<Pout>1916</Pout>
+</Sample>
+<Sample Secs="46549">
+<Pout>2211</Pout>
+</Sample>
+<Sample Secs="46621">
+<Pout>2411</Pout>
+</Sample>
+<Sample Secs="46692">
+<Pout>2522</Pout>
+</Sample>
+<Sample Secs="46764">
+<Pout>2674</Pout>
+</Sample>
+<Sample Secs="46835">
+<Pout>2687</Pout>
+</Sample>
+<Sample Secs="46907">
+<Pout>2684</Pout>
+</Sample>
+<Sample Secs="46978">
+<Pout>2703</Pout>
+</Sample>
+<Sample Secs="47049">
+<Pout>2700</Pout>
+</Sample>
+<Sample Secs="47122">
+<Pout>2635</Pout>
+</Sample>
+<Sample Secs="47193">
+<Pout>2433</Pout>
+</Sample>
+<Sample Secs="47265">
+<Pout>2421</Pout>
+</Sample>
+<Sample Secs="47336">
+<Pout>1527</Pout>
+</Sample>
+<Sample Secs="47408">
+<Pout>1280</Pout>
+</Sample>
+<Sample Secs="47479">
+<Pout>1947</Pout>
+</Sample>
+<Sample Secs="47550">
+<Pout>2385</Pout>
+</Sample>
+<Sample Secs="47623">
+<Pout>2243</Pout>
+</Sample>
+<Sample Secs="47694">
+<Pout>2300</Pout>
+</Sample>
+<Sample Secs="47766">
+<Pout>2481</Pout>
+</Sample>
+<Sample Secs="47837">
+<Pout>2331</Pout>
+</Sample>
+<Sample Secs="47909">
+<Pout>2298</Pout>
+</Sample>
+<Sample Secs="47980">
+<Pout>2284</Pout>
+</Sample>
+<Sample Secs="48051">
+<Pout>2039</Pout>
+</Sample>
+<Sample Secs="48123">
+<Pout>2204</Pout>
+</Sample>
+<Sample Secs="48195">
+<Pout>2245</Pout>
+</Sample>
+<Sample Secs="48267">
+<Pout>1606</Pout>
+</Sample>
+<Sample Secs="48338">
+<Pout>703</Pout>
+</Sample>
+<Sample Secs="48410">
+<Pout>684</Pout>
+</Sample>
+<Sample Secs="48481">
+<Pout>681</Pout>
+</Sample>
+<Sample Secs="48553">
+<Pout>663</Pout>
+</Sample>
+<Sample Secs="48624">
+<Pout>695</Pout>
+</Sample>
+<Sample Secs="48695">
+<Pout>734</Pout>
+</Sample>
+<Sample Secs="48767">
+<Pout>771</Pout>
+</Sample>
+<Sample Secs="48839">
+<Pout>775</Pout>
+</Sample>
+<Sample Secs="48911">
+<Pout>776</Pout>
+</Sample>
+<Sample Secs="48982">
+<Pout>777</Pout>
+</Sample>
+<Sample Secs="49054">
+<Pout>775</Pout>
+</Sample>
+<Sample Secs="49125">
+<Pout>768</Pout>
+</Sample>
+<Sample Secs="49197">
+<Pout>763</Pout>
+</Sample>
+<Sample Secs="49268">
+<Pout>760</Pout>
+</Sample>
+<Sample Secs="49339">
+<Pout>755</Pout>
+</Sample>
+<Sample Secs="49411">
+<Pout>746</Pout>
+</Sample>
+<Sample Secs="49482">
+<Pout>728</Pout>
+</Sample>
+<Sample Secs="49555">
+<Pout>720</Pout>
+</Sample>
+<Sample Secs="49626">
+<Pout>710</Pout>
+</Sample>
+<Sample Secs="49698">
+<Pout>707</Pout>
+</Sample>
+<Sample Secs="49769">
+<Pout>712</Pout>
+</Sample>
+<Sample Secs="49840">
+<Pout>719</Pout>
+</Sample>
+<Sample Secs="49912">
+<Pout>724</Pout>
+</Sample>
+<Sample Secs="49983">
+<Pout>731</Pout>
+</Sample>
+<Sample Secs="50055">
+<Pout>737</Pout>
+</Sample>
+<Sample Secs="50126">
+<Pout>730</Pout>
+</Sample>
+<Sample Secs="50199">
+<Pout>711</Pout>
+</Sample>
+<Sample Secs="50270">
+<Pout>690</Pout>
+</Sample>
+<Sample Secs="50341">
+<Pout>686</Pout>
+</Sample>
+<Sample Secs="50413">
+<Pout>706</Pout>
+</Sample>
+<Sample Secs="50484">
+<Pout>724</Pout>
+</Sample>
+<Sample Secs="50556">
+<Pout>741</Pout>
+</Sample>
+<Sample Secs="50627">
+<Pout>751</Pout>
+</Sample>
+<Sample Secs="50699">
+<Pout>760</Pout>
+</Sample>
+<Sample Secs="50770">
+<Pout>766</Pout>
+</Sample>
+<Sample Secs="50841">
+<Pout>771</Pout>
+</Sample>
+<Sample Secs="50914">
+<Pout>776</Pout>
+</Sample>
+<Sample Secs="50985">
+<Pout>780</Pout>
+</Sample>
+<Sample Secs="51057">
+<Pout>781</Pout>
+</Sample>
+<Sample Secs="51128">
+<Pout>780</Pout>
+</Sample>
+<Sample Secs="51199">
+<Pout>779</Pout>
+</Sample>
+<Sample Secs="51272">
+<Pout>770</Pout>
+</Sample>
+<Sample Secs="51343">
+<Pout>776</Pout>
+</Sample>
+<Sample Secs="51415">
+<Pout>775</Pout>
+</Sample>
+<Sample Secs="51486">
+<Pout>768</Pout>
+</Sample>
+<Sample Secs="51558">
+<Pout>751</Pout>
+</Sample>
+<Sample Secs="51629">
+<Pout>731</Pout>
+</Sample>
+<Sample Secs="51701">
+<Pout>716</Pout>
+</Sample>
+<Sample Secs="51772">
+<Pout>701</Pout>
+</Sample>
+<Sample Secs="51843">
+<Pout>680</Pout>
+</Sample>
+<Sample Secs="51916">
+<Pout>662</Pout>
+</Sample>
+<Sample Secs="51987">
+<Pout>653</Pout>
+</Sample>
+<Sample Secs="52059">
+<Pout>653</Pout>
+</Sample>
+<Sample Secs="52130">
+<Pout>649</Pout>
+</Sample>
+<Sample Secs="52201">
+<Pout>632</Pout>
+</Sample>
+<Sample Secs="52273">
+<Pout>627</Pout>
+</Sample>
+<Sample Secs="52344">
+<Pout>620</Pout>
+</Sample>
+<Sample Secs="52416">
+<Pout>606</Pout>
+</Sample>
+<Sample Secs="52488">
+<Pout>583</Pout>
+</Sample>
+<Sample Secs="52560">
+<Pout>567</Pout>
+</Sample>
+<Sample Secs="52631">
+<Pout>556</Pout>
+</Sample>
+<Sample Secs="52702">
+<Pout>545</Pout>
+</Sample>
+<Sample Secs="52774">
+<Pout>531</Pout>
+</Sample>
+<Sample Secs="52845">
+<Pout>519</Pout>
+</Sample>
+<Sample Secs="52917">
+<Pout>517</Pout>
+</Sample>
+<Sample Secs="52988">
+<Pout>515</Pout>
+</Sample>
+<Sample Secs="53060">
+<Pout>509</Pout>
+</Sample>
+<Sample Secs="53132">
+<Pout>512</Pout>
+</Sample>
+<Sample Secs="53203">
+<Pout>511</Pout>
+</Sample>
+<Sample Secs="53275">
+<Pout>512</Pout>
+</Sample>
+<Sample Secs="53346">
+<Pout>510</Pout>
+</Sample>
+<Sample Secs="53418">
+<Pout>508</Pout>
+</Sample>
+<Sample Secs="53489">
+<Pout>505</Pout>
+</Sample>
+<Sample Secs="53560">
+<Pout>505</Pout>
+</Sample>
+<Sample Secs="53633">
+<Pout>508</Pout>
+</Sample>
+<Sample Secs="53704">
+<Pout>504</Pout>
+</Sample>
+<Sample Secs="53776">
+<Pout>496</Pout>
+</Sample>
+<Sample Secs="53847">
+<Pout>489</Pout>
+</Sample>
+<Sample Secs="53918">
+<Pout>482</Pout>
+</Sample>
+<Sample Secs="53990">
+<Pout>472</Pout>
+</Sample>
+<Sample Secs="54062">
+<Pout>469</Pout>
+</Sample>
+<Sample Secs="54134">
+<Pout>459</Pout>
+</Sample>
+<Sample Secs="54205">
+<Pout>447</Pout>
+</Sample>
+<Sample Secs="54277">
+<Pout>435</Pout>
+</Sample>
+<Sample Secs="54348">
+<Pout>427</Pout>
+</Sample>
+<Sample Secs="54419">
+<Pout>427</Pout>
+</Sample>
+<Sample Secs="54491">
+<Pout>431</Pout>
+</Sample>
+<Sample Secs="54562">
+<Pout>430</Pout>
+</Sample>
+<Sample Secs="54634">
+<Pout>423</Pout>
+</Sample>
+<Sample Secs="54706">
+<Pout>413</Pout>
+</Sample>
+<Sample Secs="54778">
+<Pout>400</Pout>
+</Sample>
+<Sample Secs="54849">
+<Pout>391</Pout>
+</Sample>
+<Sample Secs="54920">
+<Pout>387</Pout>
+</Sample>
+<Sample Secs="54992">
+<Pout>382</Pout>
+</Sample>
+<Sample Secs="55063">
+<Pout>377</Pout>
+</Sample>
+<Sample Secs="55135">
+<Pout>370</Pout>
+</Sample>
+<Sample Secs="55206">
+<Pout>363</Pout>
+</Sample>
+<Sample Secs="55277">
+<Pout>359</Pout>
+</Sample>
+<Sample Secs="55350">
+<Pout>358</Pout>
+</Sample>
+<Sample Secs="55421">
+<Pout>359</Pout>
+</Sample>
+<Sample Secs="55493">
+<Pout>359</Pout>
+</Sample>
+<Sample Secs="55564">
+<Pout>359</Pout>
+</Sample>
+<Sample Secs="55635">
+<Pout>358</Pout>
+</Sample>
+<Sample Secs="55708">
+<Pout>356</Pout>
+</Sample>
+<Sample Secs="55779">
+<Pout>352</Pout>
+</Sample>
+<Sample Secs="55851">
+<Pout>350</Pout>
+</Sample>
+<Sample Secs="55922">
+<Pout>343</Pout>
+</Sample>
+<Sample Secs="55994">
+<Pout>341</Pout>
+</Sample>
+<Sample Secs="56065">
+<Pout>340</Pout>
+</Sample>
+<Sample Secs="56136">
+<Pout>338</Pout>
+</Sample>
+<Sample Secs="56208">
+<Pout>335</Pout>
+</Sample>
+<Sample Secs="56280">
+<Pout>333</Pout>
+</Sample>
+<Sample Secs="56352">
+<Pout>331</Pout>
+</Sample>
+<Sample Secs="56423">
+<Pout>332</Pout>
+</Sample>
+<Sample Secs="56495">
+<Pout>336</Pout>
+</Sample>
+<Sample Secs="56566">
+<Pout>338</Pout>
+</Sample>
+<Sample Secs="56637">
+<Pout>324</Pout>
+</Sample>
+<Sample Secs="56709">
+<Pout>275</Pout>
+</Sample>
+<Sample Secs="56780">
+<Pout>269</Pout>
+</Sample>
+<Sample Secs="56852">
+<Pout>286</Pout>
+</Sample>
+<Sample Secs="56924">
+<Pout>313</Pout>
+</Sample>
+<Sample Secs="56995">
+<Pout>326</Pout>
+</Sample>
+<Sample Secs="57067">
+<Pout>329</Pout>
+</Sample>
+<Sample Secs="57138">
+<Pout>335</Pout>
+</Sample>
+<Sample Secs="57210">
+<Pout>349</Pout>
+</Sample>
+<Sample Secs="57281">
+<Pout>371</Pout>
+</Sample>
+<Sample Secs="57352">
+<Pout>390</Pout>
+</Sample>
+<Sample Secs="57425">
+<Pout>397</Pout>
+</Sample>
+<Sample Secs="57496">
+<Pout>393</Pout>
+</Sample>
+<Sample Secs="57568">
+<Pout>386</Pout>
+</Sample>
+<Sample Secs="57639">
+<Pout>383</Pout>
+</Sample>
+<Sample Secs="57711">
+<Pout>400</Pout>
+</Sample>
+<Sample Secs="57782">
+<Pout>406</Pout>
+</Sample>
+<Sample Secs="57853">
+<Pout>390</Pout>
+</Sample>
+<Sample Secs="57926">
+<Pout>364</Pout>
+</Sample>
+<Sample Secs="57997">
+<Pout>328</Pout>
+</Sample>
+<Sample Secs="58069">
+<Pout>296</Pout>
+</Sample>
+<Sample Secs="58140">
+<Pout>282</Pout>
+</Sample>
+<Sample Secs="58212">
+<Pout>275</Pout>
+</Sample>
+<Sample Secs="58283">
+<Pout>268</Pout>
+</Sample>
+<Sample Secs="58354">
+<Pout>261</Pout>
+</Sample>
+<Sample Secs="58426">
+<Pout>255</Pout>
+</Sample>
+<Sample Secs="58498">
+<Pout>250</Pout>
+</Sample>
+<Sample Secs="58570">
+<Pout>241</Pout>
+</Sample>
+<Sample Secs="58641">
+<Pout>229</Pout>
+</Sample>
+<Sample Secs="58713">
+<Pout>221</Pout>
+</Sample>
+<Sample Secs="58784">
+<Pout>218</Pout>
+</Sample>
+<Sample Secs="58856">
+<Pout>226</Pout>
+</Sample>
+<Sample Secs="58927">
+<Pout>236</Pout>
+</Sample>
+<Sample Secs="58998">
+<Pout>248</Pout>
+</Sample>
+<Sample Secs="59070">
+<Pout>252</Pout>
+</Sample>
+<Sample Secs="59141">
+<Pout>255</Pout>
+</Sample>
+<Sample Secs="59213">
+<Pout>254</Pout>
+</Sample>
+<Sample Secs="59285">
+<Pout>253</Pout>
+</Sample>
+<Sample Secs="59357">
+<Pout>249</Pout>
+</Sample>
+<Sample Secs="59428">
+<Pout>235</Pout>
+</Sample>
+<Sample Secs="59500">
+<Pout>233</Pout>
+</Sample>
+<Sample Secs="59571">
+<Pout>228</Pout>
+</Sample>
+<Sample Secs="59642">
+<Pout>228</Pout>
+</Sample>
+<Sample Secs="59714">
+<Pout>230</Pout>
+</Sample>
+<Sample Secs="59785">
+<Pout>232</Pout>
+</Sample>
+<Sample Secs="59857">
+<Pout>235</Pout>
+</Sample>
+<Sample Secs="59928">
+<Pout>239</Pout>
+</Sample>
+<Sample Secs="60001">
+<Pout>238</Pout>
+</Sample>
+<Sample Secs="60072">
+<Pout>235</Pout>
+</Sample>
+<Sample Secs="60144">
+<Pout>229</Pout>
+</Sample>
+<Sample Secs="60215">
+<Pout>218</Pout>
+</Sample>
+<Sample Secs="60286">
+<Pout>207</Pout>
+</Sample>
+<Sample Secs="60358">
+<Pout>194</Pout>
+</Sample>
+<Sample Secs="60429">
+<Pout>181</Pout>
+</Sample>
+<Sample Secs="60501">
+<Pout>170</Pout>
+</Sample>
+<Sample Secs="60572">
+<Pout>162</Pout>
+</Sample>
+<Sample Secs="60645">
+<Pout>154</Pout>
+</Sample>
+<Sample Secs="60716">
+<Pout>146</Pout>
+</Sample>
+<Sample Secs="60787">
+<Pout>137</Pout>
+</Sample>
+<Sample Secs="60859">
+<Pout>128</Pout>
+</Sample>
+<Sample Secs="60930">
+<Pout>119</Pout>
+</Sample>
+<Sample Secs="61002">
+<Pout>110</Pout>
+</Sample>
+<Sample Secs="61073">
+<Pout>102</Pout>
+</Sample>
+<Sample Secs="61145">
+<Pout>95</Pout>
+</Sample>
+<Sample Secs="61216">
+<Pout>87</Pout>
+</Sample>
+<Sample Secs="61288">
+<Pout>85</Pout>
+</Sample>
+<Sample Secs="61360">
+<Pout>75</Pout>
+</Sample>
+<Sample Secs="61431">
+<Pout>71</Pout>
+</Sample>
+<Sample Secs="61503">
+<Pout>67</Pout>
+</Sample>
+<Sample Secs="61574">
+<Pout>61</Pout>
+</Sample>
+<Sample Secs="61646">
+<Pout>54</Pout>
+</Sample>
+<Sample Secs="61717">
+<Pout>44</Pout>
+</Sample>
+<Sample Secs="61788">
+<Pout>39</Pout>
+</Sample>
+<Sample Secs="61861">
+<Pout>36</Pout>
+</Sample>
+<Sample Secs="61932">
+<Pout>35</Pout>
+</Sample>
+<Sample Secs="62004">
+<Pout>33</Pout>
+</Sample>
+<Sample Secs="62075">
+<Pout>31</Pout>
+</Sample>
+<Sample Secs="62147">
+<Pout>26</Pout>
+</Sample>
+<Sample Secs="62218">
+<Pout>28</Pout>
+</Sample>
+<Sample Secs="62290">
+<Pout>27</Pout>
+</Sample>
+<Sample Secs="62361">
+<Pout>25</Pout>
+</Sample>
+<Sample Secs="62432">
+<Pout>24</Pout>
+</Sample>
+<Sample Secs="62505">
+<Pout>23</Pout>
+</Sample>
+<Sample Secs="62576">
+<Pout>21</Pout>
+</Sample>
+<Sample Secs="62648">
+<Pout>17</Pout>
+</Sample>
+<Sample Secs="62719">
+<Pout>12</Pout>
+</Sample>
+<Sample Secs="62791">
+<Pout>7</Pout>
+</Sample>
+<Sample Secs="62862">
+<Pout>4</Pout>
+</Sample>
+<Sample Secs="62934">
+<Pout>4</Pout>
+</Sample>
+<Sample Secs="63005">
+<Pout>4</Pout>
+</Sample>
+<Sample Secs="63076">
+<Pout>2</Pout>
+</Sample>
+<Sample Secs="63149">
+<Pout>1</Pout>
+</Sample>
+</Day>
